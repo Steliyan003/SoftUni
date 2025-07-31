@@ -1,0 +1,14 @@
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\bin\Debug\net8.0\Inheritance-1.exe
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\bin\Debug\net8.0\Inheritance-1.deps.json
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\bin\Debug\net8.0\Inheritance-1.runtimeconfig.json
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\bin\Debug\net8.0\Inheritance-1.dll
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\bin\Debug\net8.0\Inheritance-1.pdb
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.AssemblyInfo.cs
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.dll
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\refint\Inheritance-1.dll
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.pdb
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\Inheritance-1.genruntimeconfig.cache
+C:\Users\rumen\source\repos\Inheritance-1\Inheritance-1\obj\Debug\net8.0\ref\Inheritance-1.dll
