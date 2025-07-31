@@ -11,10 +11,6 @@ namespace Inheritance_1
           
                 Child child = new Child(name, age);
                 child.DisplayInfo();
-            
-           
-           
-
         }
     }
 }
