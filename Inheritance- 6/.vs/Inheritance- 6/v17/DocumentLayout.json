@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|c:\\users\\rumen\\source\\repos\\inheritance- 6\\inheritance- 6\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F3A08-32D7-4D03-A3C0-B62827FBDDBB}|Inheritance- 6\\Inheritance- 6.csproj|solutionrelative:inheritance- 6\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Tomcat.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Tomcat.cs",
+              "RelativeToolTip": "Inheritance- 6\\Tomcat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:34:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kitten.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Kitten.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Kitten.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Kitten.cs",
+              "RelativeToolTip": "Inheritance- 6\\Kitten.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:30:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Cat.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Cat.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Cat.cs",
+              "RelativeToolTip": "Inheritance- 6\\Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:22:51.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Frog.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Frog.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Frog.cs",
+              "RelativeToolTip": "Inheritance- 6\\Frog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:19:23.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Animals.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Animals.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Animals.cs",
+              "RelativeToolTip": "Inheritance- 6\\Animals.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:55:18.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Dog.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Dog.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Dog.cs",
+              "RelativeToolTip": "Inheritance- 6\\Dog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:54:17.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance- 6\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Inheritance- 6\\Inheritance- 6\\Program.cs",
+              "RelativeToolTip": "Inheritance- 6\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:53:11.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
