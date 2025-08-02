@@ -1,0 +1,14 @@
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\bin\Debug\net8.0\ClassBoxData.exe
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\bin\Debug\net8.0\ClassBoxData.deps.json
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\bin\Debug\net8.0\ClassBoxData.runtimeconfig.json
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\bin\Debug\net8.0\ClassBoxData.dll
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\bin\Debug\net8.0\ClassBoxData.pdb
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.dll
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\refint\ClassBoxData.dll
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.pdb
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\rumen\source\repos\ClassBoxData\ClassBoxData\obj\Debug\net8.0\ref\ClassBoxData.dll
