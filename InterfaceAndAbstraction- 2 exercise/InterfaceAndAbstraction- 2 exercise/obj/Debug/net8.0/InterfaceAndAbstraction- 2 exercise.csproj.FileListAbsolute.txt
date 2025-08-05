@@ -1,0 +1,14 @@
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\bin\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.exe
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\bin\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.deps.json
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\bin\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.runtimeconfig.json
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\bin\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.dll
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\bin\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.pdb
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.AssemblyInfo.cs
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.dll
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\refint\InterfaceAndAbstraction- 2 exercise.dll
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.pdb
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\InterfaceAndAbstraction- 2 exercise.genruntimeconfig.cache
+C:\Users\rumen\source\repos\InterfaceAndAbstraction- 2 exercise\InterfaceAndAbstraction- 2 exercise\obj\Debug\net8.0\ref\InterfaceAndAbstraction- 2 exercise.dll

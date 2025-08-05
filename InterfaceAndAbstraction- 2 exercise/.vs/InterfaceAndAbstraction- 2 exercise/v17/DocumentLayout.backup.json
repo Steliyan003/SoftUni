@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|c:\\users\\rumen\\source\\repos\\interfaceandabstraction- 2 exercise\\interfaceandabstraction- 2 exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|solutionrelative:interfaceandabstraction- 2 exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|c:\\users\\rumen\\source\\repos\\interfaceandabstraction- 2 exercise\\interfaceandabstraction- 2 exercise\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|solutionrelative:interfaceandabstraction- 2 exercise\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|c:\\users\\rumen\\source\\repos\\interfaceandabstraction- 2 exercise\\interfaceandabstraction- 2 exercise\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|solutionrelative:interfaceandabstraction- 2 exercise\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|c:\\users\\rumen\\source\\repos\\interfaceandabstraction- 2 exercise\\interfaceandabstraction- 2 exercise\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|solutionrelative:interfaceandabstraction- 2 exercise\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|c:\\users\\rumen\\source\\repos\\interfaceandabstraction- 2 exercise\\interfaceandabstraction- 2 exercise\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE42F-6F15-4248-BB12-DC8A959C056D}|InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise.csproj|solutionrelative:interfaceandabstraction- 2 exercise\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\Citizen.cs",
+              "RelativeDocumentMoniker": "InterfaceAndAbstraction- 2 exercise\\Citizen.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\Citizen.cs",
+              "RelativeToolTip": "InterfaceAndAbstraction- 2 exercise\\Citizen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:14:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IPerson.cs",
+              "RelativeDocumentMoniker": "InterfaceAndAbstraction- 2 exercise\\IPerson.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IPerson.cs",
+              "RelativeToolTip": "InterfaceAndAbstraction- 2 exercise\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:13:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IBirthable.cs",
+              "RelativeDocumentMoniker": "InterfaceAndAbstraction- 2 exercise\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IBirthable.cs",
+              "RelativeToolTip": "InterfaceAndAbstraction- 2 exercise\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:12:09.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "InterfaceAndAbstraction- 2 exercise\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\IIdentifiable.cs",
+              "RelativeToolTip": "InterfaceAndAbstraction- 2 exercise\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:10:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceAndAbstraction- 2 exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\InterfaceAndAbstraction- 2 exercise\\InterfaceAndAbstraction- 2 exercise\\Program.cs*",
+              "RelativeToolTip": "InterfaceAndAbstraction- 2 exercise\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:09:56.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
