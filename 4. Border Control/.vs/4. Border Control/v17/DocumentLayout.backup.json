@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\robots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\robots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\irobots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\irobots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\iidentificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\iidentificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|c:\\users\\rumen\\source\\repos\\4. border control\\4. border control\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C3843-3C0B-4803-AFB0-D95D0B8D61B4}|4. Border Control\\4. Border Control.csproj|solutionrelative:4. border control\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRobots.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\IRobots.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\IRobots.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\IRobots.cs",
+              "RelativeToolTip": "4. Border Control\\IRobots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:09:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIdentificator.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\IIdentificator.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\IIdentificator.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\IIdentificator.cs",
+              "RelativeToolTip": "4. Border Control\\IIdentificator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:09:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICitizen.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\ICitizen.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\ICitizen.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\ICitizen.cs",
+              "RelativeToolTip": "4. Border Control\\ICitizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:07:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robots.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Robots.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\Robots.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Robots.cs",
+              "RelativeToolTip": "4. Border Control\\Robots.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:06:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Citizen.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\Citizen.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Citizen.cs",
+              "RelativeToolTip": "4. Border Control\\Citizen.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:06:30.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Program.cs",
+              "RelativeDocumentMoniker": "4. Border Control\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\4. Border Control\\4. Border Control\\Program.cs",
+              "RelativeToolTip": "4. Border Control\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:04:39.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
