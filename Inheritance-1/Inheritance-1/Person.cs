@@ -19,7 +19,6 @@ namespace Inheritance_1
             {
               throw new ArgumentException("Age cannot be negative.");
             }
-        }
-        
+        }  
     }
 }
