@@ -7,6 +7,7 @@ namespace ExplicitInterface
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Write a name, country and age")
             string[] smd = Console.ReadLine()
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
