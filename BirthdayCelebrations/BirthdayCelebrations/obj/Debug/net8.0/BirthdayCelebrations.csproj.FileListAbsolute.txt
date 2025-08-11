@@ -1,0 +1,14 @@
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\bin\Debug\net8.0\BirthdayCelebrations.exe
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\bin\Debug\net8.0\BirthdayCelebrations.deps.json
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\bin\Debug\net8.0\BirthdayCelebrations.runtimeconfig.json
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\bin\Debug\net8.0\BirthdayCelebrations.dll
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\bin\Debug\net8.0\BirthdayCelebrations.pdb
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.dll
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\refint\BirthdayCelebrations.dll
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.pdb
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\rumen\source\repos\BirthdayCelebrations\BirthdayCelebrations\obj\Debug\net8.0\ref\BirthdayCelebrations.dll

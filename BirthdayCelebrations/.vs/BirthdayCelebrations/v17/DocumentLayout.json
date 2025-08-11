@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\ipet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\ipet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\rumen\\source\\repos\\birthdaycelebrations\\birthdaycelebrations\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D180E1-9BBC-4EC0-ADAC-FF31D973A710}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRobot.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\IRobot.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\IRobot.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\IRobot.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\IRobot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:57:12.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPet.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\IPet.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\IPet.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\IPet.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\IPet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:48:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitizen.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\ICitizen.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\ICitizen.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\ICitizen.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\ICitizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:41:23.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Pet.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Pet.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Pet.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:23:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Robot.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Robot.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Robot.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Robot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:22:46.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Citizen.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Citizen.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Citizen.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Citizen.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:19:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Program.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\BirthdayCelebrations\\BirthdayCelebrations\\Program.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:18:46.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
