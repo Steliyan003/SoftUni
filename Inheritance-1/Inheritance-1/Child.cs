@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 namespace Inheritance_1
 {
     public class Child : Person
-    {
-        
+    { 
         public Child(string name, int age) 
             : base(name, age)
-        {
-            
+        { 
             if(age>15)
             {
              throw new ArgumentException("Age cannot be greater than 15 for a child.");
